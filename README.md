@@ -1,4 +1,4 @@
 # vue3-course
 Project files for youtube video course https://www.youtube.com/watch?v=YrxBCBibVo0&amp;list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1
-# Lesson 7
-This is the starting point for lesson #7 https://youtu.be/ixOcve5PX-Q
+# Lesson 8
+This is the starting point for lesson #8 https://youtu.be/juocv4AtrHo
