@@ -3,4 +3,4 @@ Project files for youtube video course https://www.youtube.com/playlist?list=PL4
 # Lesson 9
 This is the starting point for lesson #9 https://youtu.be/7iDGJolHFmU
 # Hint for this lesson
-To start json-server use `npx json-server -watch data/db.json` instead of the syntax mentioned in the video.
+To start json-server use `npx json-server -watch data/db.json` instead of the syntax sugested by the video.
